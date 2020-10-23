@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.fLogin.resources
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.exe
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.deps.json
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.runtimeconfig.dev.json
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.dll
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\bin\Debug\netcoreapp3.1\QuanLyQuanCoffee.pdb
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.dll
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.pdb
+C:\Users\Admin\Documents\C#\Phan mem quan ly quan Coffee\Winform\QuanLyQuanCoffee\QuanLyQuanCoffee\obj\Debug\netcoreapp3.1\QuanLyQuanCoffee.genruntimeconfig.cache
